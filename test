@@ -1,6 +1,6 @@
 test
 
-git add - stage all changes, or git add file to stage a specific file.
+git push push local changes to repo
 
-git commit - Records the staged changes in the local repository with a message describing what was changed.
+git pull pull repo changes to local
 
