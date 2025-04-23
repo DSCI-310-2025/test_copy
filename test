@@ -1,3 +1,6 @@
 test
 
-i hate this
+git add - stage all changes, or git add file to stage a specific file.
+
+git commit - Records the staged changes in the local repository with a message describing what was changed.
+
